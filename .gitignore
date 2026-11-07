@@ -1,0 +1,12 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.so
+*.dll
+
+# OS / editor files
+.DS_Store
+Thumbs.db
